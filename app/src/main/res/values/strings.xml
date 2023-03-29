@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Laboratorio03Rodriguez</string>
+    <string name="money_text_view">Cantidad de dinero</string>
+    <string name="cont_text_view">0</string>
+    <string name="five_cents_content_description">five cents image</string>
+    <string name="ten_cents_content_description">ten cents image</string>
+    <string name="quarter_content_description">Quarter image</string>
+    <string name="one_dollar_content_description">One dollar image</string>
+    <string name="five_cents_text_view">$0.05</string>
+    <string name="ten_cents_text_view">$0.10</string>
+    <string name="quarter_text_view">$0.25</string>
+    <string name="one_dollar_text_view">$1.00</string>
+</resources>
